@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>florinel-chis/magento-api-mcp</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is an MCP (Model Context Protocol) server that provides tools to search and retrieve Magento 2 REST API documentation. It parses OpenAPI 3.0 swagger.json files, maintains a local SQLite database with FTS5 indexing, and exposes 5 tools via FastMCP over STDIO.</div>
@@ -357,7 +357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bamarni/composer-bin-plugin</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">No conflicts for your bin dependencies</div>
@@ -410,7 +410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thinq4yourself/Beatfinder</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Instantly find the best prices for your music tracks across Beatport, Amazon, iTunes, SoundCloud, 7Digital, and Bandcamp. Upload playlists (TuneMyMusic or Soundiiz) or paste URLs to discover the cheapest way to own your favorite songs. Share playlists with purchase links to your friends and fans</div>
@@ -590,7 +590,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Nov 2025, 17:34:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2025, 17:34:07 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
