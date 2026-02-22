@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elgentos/magento2-static-deploy</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Standalone Go application to do 300x faster static content deployments</div>
@@ -357,7 +357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>onyx-dot-app/onyx</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source AI Platform - AI Chat with advanced features that works with every LLM</div>
@@ -598,7 +598,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Feb 2026, 17:36:23 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2026, 17:36:21 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
